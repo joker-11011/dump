@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!-- Created by Charles Hoffman, CPA: 12/31/2019 8:06:04 AM -->
+<!-- Count: 10 -->
+<rss version='2.0' xmlns:rss='http://purl.org/rss/1.0/'>
+   <channel>
+      <title>Microsoft XBRL-based Reports (10-Ks)</title>
+      <link>http://xbrlsite-app.azurewebsites.net/Repository_USGAAP/rss_Microsoft.xml</link>
+      <description>Microsoft XBRL-based Reports (10-Ks)</description>
+      <language>en-us</language>
+      <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+      <lastBuildDate>Tue, 31 Dec 2019 08:06:04 GMT</lastBuildDate>
+      <docs>http://xbrlsite-app.azurewebsites.net/Repository_USGAAP/rss_Microsoft.xml</docs>
+      <generator>Manual</generator>
+      <managingEditor>Charles.Hoffman@me.com (Charles Hoffman)</managingEditor>
+      <webMaster>Charles.Hoffman@me.com (Charles Hoffman)</webMaster>
+         <item>
+            <id>0001193125-10-171791</id>
+            <title>MICROSOFT CORP</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000119312510171791/msft-20100630.xml</link>
+            <description>MICROSOFT CORP Form: 10-K Filed: 2010-07-30</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>EDGAR Online</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000119312510171791/msft-20100630.xml</guid>
+         </item>
+         <item>
+            <id>0001193125-11-200680</id>
+            <title>MICROSOFT CORP</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000119312511200680/msft-20110630.xml</link>
+            <description>MICROSOFT CORP Form: 10-K Filed: 2011-07-28</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>EDGAR Online</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000119312511200680/msft-20110630.xml</guid>
+         </item>
+         <item>
+            <id>0001193125-12-316848</id>
+            <title>MICROSOFT CORP</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000119312512316848/msft-20120630.xml</link>
+            <description>MICROSOFT CORP Form: 10-K Filed: 2012-07-26</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>EDGAR Online</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000119312512316848/msft-20120630.xml</guid>
+         </item>
+         <item>
+            <id>0001564590-18-019062</id>
+            <title>MICROSOFT CORP</title>
+            <link>https://www.sec.gov/Archives/edgar/data/789019/000156459018019062/msft-20180630.xml</link>
+            <description>MICROSOFT CORP Form: 10-K Filed: 2018-08-03</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>Donnelley Financial Solutions</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>https://www.sec.gov/Archives/edgar/data/789019/000156459018019062/msft-20180630.xml</guid>
+         </item>
+         <item>
+            <id>0001564590-19-027952</id>
+            <title>MICROSOFT CORP</title>
+            <link>https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-20190630.xml</link>
+            <description>MICROSOFT CORP Form: 10-K Filed: 2019-08-01</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>DFIN</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>https://www.sec.gov/Archives/edgar/data/789019/000156459019027952/msft-20190630.xml</guid>
+         </item>
+         <item>
+            <id>0001193125-13-310206</id>
+            <title>MICROSOFT CORPORATION</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000119312513310206/msft-20130630.xml</link>
+            <description>MICROSOFT CORPORATION Form: 10-K Filed: 2013-07-30</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>RR Donnelley</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000119312513310206/msft-20130630.xml</guid>
+         </item>
+         <item>
+            <id>0001193125-14-289961</id>
+            <title>MICROSOFT CORPORATION</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000119312514289961/msft-20140630.xml</link>
+            <description>MICROSOFT CORPORATION Form: 10-K Filed: 2014-07-31</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>RR Donnelley</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000119312514289961/msft-20140630.xml</guid>
+         </item>
+         <item>
+            <id>0001193125-15-272806</id>
+            <title>MICROSOFT CORPORATION</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000119312515272806/msft-20150630.xml</link>
+            <description>MICROSOFT CORPORATION Form: 10-K Filed: 2015-07-31</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>RR Donnelley</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000119312515272806/msft-20150630.xml</guid>
+         </item>
+         <item>
+            <id>0001193125-16-662209</id>
+            <title>MICROSOFT CORPORATION</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000119312516662209/msft-20160630.xml</link>
+            <description>MICROSOFT CORPORATION Form: 10-K Filed: 2016-07-28</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>RR Donnelley</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000119312516662209/msft-20160630.xml</guid>
+         </item>
+         <item>
+            <id>0001564590-17-014900</id>
+            <title>MICROSOFT CORPORATION</title>
+            <link>http://www.sec.gov/Archives/edgar/data/789019/000156459017014900/msft-20170630.xml</link>
+            <description>MICROSOFT CORPORATION Form: 10-K Filed: 2017-08-02</description>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingStyle'>COMID-BSC-CF1-ISM-IEMIB-OILY-SPEC6</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Industry'>Software</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_Generator'>Donnelley Financial Solutions</category>
+            <category domain='http://xbrlsite.azurewebsites.net/2016/conceptual-model/cm.xsd#cm_ReportingEntity'>0000789019</category>
+            <pubDate>Tue, 31 Dec 2019 08:06:04 GMT</pubDate>
+            <guid>http://www.sec.gov/Archives/edgar/data/789019/000156459017014900/msft-20170630.xml</guid>
+         </item>
+   </channel>
+</rss>
